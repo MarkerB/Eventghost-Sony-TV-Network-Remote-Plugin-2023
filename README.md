@@ -1,4 +1,4 @@
-# Sony-TV-Network-Remote-Plugin-2023
+# Eventghost-Sony-TV-Network-Remote-Plugin-2023
 
 This is an Eventghost plugin for IP-based Sony TV's, probably starting with 2013 or earlier and extending to at least 2023.
 
