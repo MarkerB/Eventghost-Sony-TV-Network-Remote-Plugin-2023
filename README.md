@@ -6,7 +6,7 @@ It is based on the plugin archived at https://github.com/dequi/eventghost-genera
 
 Changes made to the original IRCC-only plugin are:
 
-1.) Fixed bug that didn't allow the IP address and pre-shared key to be set via the dialog box.  The hardcoded defaults would always be used instead of the one's set.
+1.) Fixed bug that didn't allow the IP address and pre-shared key to be set via the dialog box.  The hardcoded defaults would always be used instead of those set in the user configuration dialog.
 
 2.) Added Simple IP control event.  No built-in presets; the command strings must be gotten from here: https://pro-bravia.sony.net/develop/integrate/ssip/command-definitions/index.html
 
